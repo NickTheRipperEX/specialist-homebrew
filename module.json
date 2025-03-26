@@ -1,8 +1,8 @@
 {
     "id": "specialist-homebrew",
     "title": "Specialist Homebrew",
-    "version": "1.0.0",
-    "description": "My comprehensive collection of .\n\nThis module is a compilation of all my Tool Proficiency supplements for 5th edition Dungeons & Dragons. Each one gives options for characters to explicitly use a different tool kit for mechanical benefits during their adventures. Each supplement also includes a list of add-on/example items to accompany them.",
+    "version": "1.1.0",
+    "description": "My comprehensive collection of homebrew for 5th edition Dungeons & Dragons.\n\nInclude additional character options, equipment, and more.",
     "manifest": "https://github.com/NickTheRipperEX/specialist-homebrew/releases/latest/download/module.json",
     "download": "https://github.com/NickTheRipperEX/specialist-homebrew/releases/latest/download/specialist-homebrew.zip",
     "url":"https://github.com/NickTheRipperEX/specialist-homebrew",
