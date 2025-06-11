@@ -88,6 +88,17 @@
       "label": "Classes (Specialist Homebrew)",
       "path": "packs/specialist-homebrew-classes",
       "type": "Item",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "specialist-homebrew-subclasses",
+      "label": "Subclasses (Specialist Homebrew)",
+      "path": "packs/specialist-homebrew-subclasses",
+      "type": "Item",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
