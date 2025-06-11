@@ -1,8 +1,8 @@
-2025/06/10-22:28:54.541 8dfc Recovering log #28
-2025/06/10-22:28:54.543 8dfc Delete type=0 #28
-2025/06/10-22:28:54.543 8dfc Delete type=3 #26
-2025/06/10-22:32:22.060 129c Level-0 table #33: started
-2025/06/10-22:32:22.060 129c Level-0 table #33: 0 bytes OK
-2025/06/10-22:32:22.061 129c Delete type=0 #31
-2025/06/10-22:32:22.063 129c Manual compaction at level-0 from '!macros!GcLDOBFv2LRzeoQF' @ 72057594037927935 : 1 .. '!macros!GcLDOBFv2LRzeoQF' @ 0 : 0; will stop at (end)
-2025/06/10-22:32:22.063 129c Manual compaction at level-1 from '!macros!GcLDOBFv2LRzeoQF' @ 72057594037927935 : 1 .. '!macros!GcLDOBFv2LRzeoQF' @ 0 : 0; will stop at (end)
+2025/06/11-11:05:41.515 8658 Recovering log #36
+2025/06/11-11:05:41.517 8658 Delete type=0 #36
+2025/06/11-11:05:41.517 8658 Delete type=3 #34
+2025/06/11-13:26:51.961 594c Level-0 table #41: started
+2025/06/11-13:26:51.962 594c Level-0 table #41: 3289 bytes OK
+2025/06/11-13:26:51.963 594c Delete type=0 #39
+2025/06/11-13:26:51.966 594c Manual compaction at level-0 from '!macros!GcLDOBFv2LRzeoQF' @ 72057594037927935 : 1 .. '!macros!ZiIhsPnUY0DnPTOr' @ 0 : 0; will stop at (end)
+2025/06/11-13:26:51.967 594c Manual compaction at level-1 from '!macros!GcLDOBFv2LRzeoQF' @ 72057594037927935 : 1 .. '!macros!ZiIhsPnUY0DnPTOr' @ 0 : 0; will stop at (end)
